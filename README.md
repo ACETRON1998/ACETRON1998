@@ -9,8 +9,8 @@
 
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="www.linkedin.com/in/aung-aung-oo-126a42194" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://www.instagram.com/aungaung6282/" />][instagram]
+<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="www.linkedin.com/in/aung-aung-oo-126a42194" />
+<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 
 <br />
 
