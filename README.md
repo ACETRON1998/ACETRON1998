@@ -1,4 +1,4 @@
-### Hi there, Aung Aung Oo 👋
+### Hi there, I'm Aung Aung Oo 👋
 
 ## I'm a student, Developer !!
 
